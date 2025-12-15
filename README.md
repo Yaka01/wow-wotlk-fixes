@@ -14,3 +14,6 @@ Tested on AzerothCore (WotLK 3.3.5a)
 
 ## Notes
 All fixes are tested locally before being committed.
+
+## Current Focus
+Initial database fixes for broken or incomplete quests and NPC behaviors.
